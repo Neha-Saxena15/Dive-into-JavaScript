@@ -1,0 +1,26 @@
+There is a very big misconception in people that Java is somehow related to JavaScript but this is not the case.
+The relation between Java and JavaScript is that both are programming language like C,C++,Python. 
+If you think the relation between Java and JavaScript is A then the relation between JavaScript and C and C++ is also A not B. 
+
+This confusion is generated as a result of the greed of gaining the popularity and seeking the attention of the public. 
+
+As we know Java is introduced in May-1995 by "James Gosling", at "Sun MicroSystem" but "James Gosling", "Mike Sheridan", and "Patrick Naughton"
+initiated the Java language project in June 1991. Java was originally designed for interactive television, but it was too advanced for the digital
+cable television industry at the time, The language was initially called Oak after an oak tree that stood outside Gosling's office. Later the project
+went by the name Green and was finally renamed Java, from Java coffee, a type of coffee from Indonesia.
+
+Sun Microsystems released the first public implementation as Java 1.0 in 1996.
+
+NetScape collaborating with Sun Microsystems to embed the Java programming language, while also hiring Brendan Eich to embed the Scheme language.
+At the time, the dot-com boom had begun and Java was a popular new language, so Eich considered the JavaScript name a marketing ploy by Netscape.
+
+
+****extra information...
+Netscape => Netscape is the American Communication Company, Brendan Eich created the JavaScript as the Netscape employee.
+            a founding engineer of Netscape Lou Montulli created HTTP cookies. The company also developed SSL which was
+            used for securing online communications before its successor TLS took over.
+Sun Microsystem => It was an American technology company that sold computers, computer components, software,
+                   and information technology services and also created the Java programming language.
+dot-com-boom => or known as dot-com bubble is the massive growth of internet and this results in rise of stock market.
+                the period between 1995 and 2000 when investors pumped money into Internet-based startups in the hopes 
+                that these fledgling companies would soon turn a profit.
