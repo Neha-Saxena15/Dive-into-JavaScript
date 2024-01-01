@@ -1,0 +1,44 @@
+** JS is Case-Sensitive language (uppercase and lowercase will treat differently Neha and neha will be different) **
+
+We know there are two words varry and constant. As we know the varry means which is not constant and constant means which will remain still and will not change. 
+Same concepts used in programming there are Variables and Constants, the variables are the one whose value can change and constants whose value can't change and 
+if by mistake we try to change the value of constants then our (compiler | interpreter) will give Error because this is against the law...
+
+Now if we declare a variable or want to start the life of first step is Declaration which tells the (compiler | interpreter) that now this is your variable and will note it down in it's dictionary. 
+
+[ keywords are the reserved word by any language whose meaning and work was already feeds in it's dictionary, any language dictionary is already filled with these keywords and their work and meanings...]
+
+There are 2 keywords in JS for declaration of a variable.
+1. let
+2. var
+
+And for declaring the Constant here is one keyword
+1. const
+
+[ Identifiers are the unreserved words created by the user which will get feed in the language dictionary for that particular programme ]
+
+There are some rules of defining the identifier..
+
+
+
+
+
+
+
+Example 
+1. let x = 20;  // this will set value of x to 20
+2. var p = 10; // this will set value of p to 10
+3. const a = 30; // ** important - initialization of constant during declaration is must**  a value will set to 30..
+
+if we try to do this
+const b;
+b = 90; 
+it will give error  - initialization of constant must be done at point of declaration.
+
+Comments are the line in our program which are for user not for language, which is used to increase readability of code for better understanding.
+if I have to write one line of comment  I have to use //.......
+and for multiple line i have to write /*......
+                                     ........*/
+
+
+
