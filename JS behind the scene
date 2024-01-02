@@ -1,0 +1,26 @@
+Let's understand one basic concept of how javascript is actually work??
+
+Whenever we run our javascript code the JS engine will create an Execution Context for that programme. (it is like creating a different enviroment )
+Now this execution context will handle all the work. In this execution context the process is completed in two step 
+       1. Allocating the memory to variable and function. (also known as Creation Phase)
+       2. Each code will run line by line and from top to bottom. ( also known as Execution Phase )
+
+In the creation phase each variable/constants is assigned "Undefined" ( Undefined is a keyword, will discuss later )
+but in case of Functions it will assign the same block of code lines which inside the code. 
+And in execution phase now when code run line by line it will assign the value which is mentioned in the code and run function only when it is called.
+
+For e.g.
+let x = 5;
+
+now in step-1 
+memory will be assigned to x and Undefined is filled in x
+and in step-2 when code run now 5 will assign to x and now when we print x it will show 5.
+
+/* To print values on console we use
+console.log()
+
+let x = 2;
+console.log(x);
+output - 2
+*/
+
