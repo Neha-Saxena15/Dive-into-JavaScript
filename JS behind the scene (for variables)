@@ -24,3 +24,26 @@ console.log(x);
 output - 2
 */
 
+now if we want to see what will console show when
+let x;
+console.log(x) // this will print "Undefined" on the console
+x = 3;
+console.log(x) // this will print "3" 
+
+now if we want to print any variable who is not declared or present inthe programme
+
+console.log(y) // it will throw an error of "not defined"
+
+Now Q here is that in english Undefined and not defined is same 
+but in JS this is not the scene both are far different in meaning 
+In output "undefined" is not an error but "not defined" is the error.
+##############################################################
+JS is a scripting language
+Which means its code is interpreted instead of compiled
+
+There are two types of execution contexts: global and function.
+The global execution context is created when a JavaScript script first starts to run, and it represents the global scope in JavaScript.
+A function execution context is created whenever a function is called, representing the function's local scope.
+
+
+
